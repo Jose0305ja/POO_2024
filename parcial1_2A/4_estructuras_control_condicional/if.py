@@ -10,7 +10,7 @@ Tenes 4 variantes del if
 3.- if anidado
 4.- if y elif
 """
-"""
+
 #Ejemplo 1 if simple
 color=input("Ingresa un color ")
 if color == "rojo":
@@ -44,7 +44,7 @@ elif color=="morado":
     print ("Soy el color morado")
 else:
     print("No soy ningun color de los anteriores")
-"""
+
 #Ejemplo 5 Crear un programa que solicite el numero de la semana
 # e imprima en pantalla el dia que le corresponde
 numero=int(input("Ingrese el numero de la semana que desea saber el nombre: "))
