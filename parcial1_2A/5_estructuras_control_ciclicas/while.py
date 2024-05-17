@@ -1,7 +1,8 @@
-# El Ciclo while Estructura iterativa que se ejecuta X veces 
-#siempre y cuando la condicion se cumpla y se seguira ejecutando 
-#tantas veces como se Tru la condicion
-
+"""
+El Ciclo while Estructura iterativa que se ejecuta X veces 
+siempre y cuando la condicion se cumpla y se seguira ejecutando 
+tantas veces como se Tru la condicion
+"""
 #Sintaxis
 #while condicion:
 #   bloque de intrucciones
