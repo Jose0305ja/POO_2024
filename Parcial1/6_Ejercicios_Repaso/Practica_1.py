@@ -28,13 +28,14 @@ while respuesta==True:
     acum+=precio_neto
     respues=False
     while respues==False:
-        respues=str(input("¿Desea agregar otro producto? [si/no] "))
+        respues=input("¿Desea agregar otro producto? [si/no] ")
         respues=respues.lower()
         
-        if respues=="si" or "no":
+        if respues=="si" or respues=="no":
             break
         else:
             print("La opcion ingresada no es valida")
+            respues=False
     
     if respues=="si":
         respuesta=True
