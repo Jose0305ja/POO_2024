@@ -21,7 +21,7 @@ while respuesta=='si':
 
     SIS_F=int(input("Ingrese la presion arterial SIStolica de la medicion final: "))
 
-    DIA_F=int(input("Ingrese la presion arterial DIAstolica de la primer medicion: "))
+    DIA_F=int(input("Ingrese la presion arterial DIAstolica de la medicion final: "))
 
     promedio_sis=((SIS_1+SIS_2+SIS_3)/3)
     promedio_dia=((DIA_1+DIA_2+DIA_3)/3)
