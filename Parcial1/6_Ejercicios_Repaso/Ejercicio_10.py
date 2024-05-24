@@ -10,5 +10,3 @@ for i in range (1,16):
         r+=1
 print(f"Los alumnos aprobados son: {a}")
 print(f"Los alumnos reprobados son: {r}")
-
-x=33
