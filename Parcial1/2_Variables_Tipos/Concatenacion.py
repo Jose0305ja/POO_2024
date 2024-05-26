@@ -1,5 +1,4 @@
 #Concatenar cadenas de caracateres con contenido de variables
-
 nombre="José Antonio"
 especialidad="Area de Desarrollo de SW Multiplataforma"
 carrera="Ingeniero en Gestión y Desarrollo de SW"
