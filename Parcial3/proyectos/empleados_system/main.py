@@ -1,6 +1,6 @@
 import mysql.connector
 from mysql.connector import Error
-
+#Main empleados
 def crear_conexion():
     try:
         conexion = mysql.connector.connect(
@@ -86,6 +86,5 @@ def menu():
                 break
             else:
                 print("Opción no válida. Inténtalo de nuevo.")
-
 if __name__ == "__main__":
     menu()
